@@ -1,0 +1,3 @@
+/home/ray/igsf/build/CMakeFiles/rebuild_cache.dir
+/home/ray/igsf/build/CMakeFiles/ReconstructBeamspot.dir
+/home/ray/igsf/build/CMakeFiles/edit_cache.dir
