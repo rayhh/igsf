@@ -52,4 +52,7 @@ Mkfile.old
 dkms.conf
 
 # build folder
-./build
+build/
+
+# .vsocd folder
+.vscode/
